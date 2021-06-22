@@ -24,3 +24,7 @@ MODEL_PARAMS = { ..... ,
 ```
 
 Reference models are availble in the FedSim implementation here.
+
+
+### Other datasets
+[Fed-MEx](https://github.com/chamathpali/Fed-MEx)
