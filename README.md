@@ -7,6 +7,8 @@ This dataset provides an ideal peronsalised setting for a federated dataset as t
 Fed-Goodreads contains 100 unique clients; the number of samples per client is limited to 2-10 to enforce statistical heterogeneity; and each data sample contains 2517 features.
 
 ## Setup
+Download the ```goodreads_reviews_spoiler.json.gz``` from [here](https://drive.google.com/uc?id=196W2kDoZXRPjzbTjM6uvTidn6aTpsFnS) and extract in the root directory.
+
 To generate the dataset follow the ```generate``` jupyter notebook instructions.
 
 ## Usage
